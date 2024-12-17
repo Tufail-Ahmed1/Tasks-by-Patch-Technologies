@@ -17,9 +17,15 @@ This Flutter application displays a collection of products, allowing users to:
 ---
 
 ## Screenshots
-![Home Screen](assets/screenshots/home_screen.png)
-![Category Filter](assets/screenshots/category_filter.png)
-![Sorted Products](assets/screenshots/sorted_products.png)
+
+![Home Screen](screenshots/ss1.png)
+![Home Screen](screenshots/ss2.png)
+![Home Screen](screenshots/ss3.png)
+![Home Screen](screenshots/ss4.png)
+![Home Screen](screenshots/ss5.png)
+![Home Screen](screenshots/ss6.png)
+![Home Screen](screenshots/ss7.png)
+![Home Screen](screenshots/ss8.png)
 
 ---
 
