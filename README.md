@@ -16,7 +16,9 @@ This Flutter application displays a collection of products, allowing users to:
 
 ---
 
-## Screenshots
+## Screenshots and Video
+
+https://github.com/user-attachments/assets/c2576105-946c-4878-a973-0061f4251025
 
 ![Home Screen](screenshots/ss1.png)
 ![Home Screen](screenshots/ss2.png)
