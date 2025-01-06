@@ -21,10 +21,6 @@ This Flutter application displays a collection of products, allowing users to:
 https://github.com/user-attachments/assets/c2576105-946c-4878-a973-0061f4251025
 
 
-https://github.com/user-attachments/assets/517647e5-3fa2-42c7-a118-84a042f4f06a
-
-
-
 ![Home Screen](screenshots/ss1.png)
 ![Home Screen](screenshots/ss2.png)
 ![Home Screen](screenshots/ss3.png)
